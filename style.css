@@ -1,0 +1,10 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: 99.7px 99.7px 99.7px 99.7px 99.7px 99.7px 99.7px 99.7px 99.7px 99.7px;
+    grid-template-rows: 79.5px 79.5px 79.5px 79.5px 79.5px 79.5px 79.5px 79.5px;
+}
+
+.grid-container img{
+    width: 99.7px;
+    height: 79.5px;
+}
